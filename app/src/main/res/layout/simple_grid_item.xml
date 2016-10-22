@@ -7,6 +7,7 @@
     android:orientation="vertical"
     android:layout_gravity="center_horizontal"
     android:gravity="center_horizontal"
+    android:background="@android:color/white"
     tools:ignore="UseCompoundDrawables">
 
     <ImageView
