@@ -2,4 +2,10 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Share dialog -->
+    <dimen name="share_dialog_image_height">36dp</dimen>
+    <dimen name="share_dialog_image_width">36dp</dimen>
+    <dimen name="share_dialog_text_size">16sp</dimen>
+
 </resources>

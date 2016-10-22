@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ShareSocialUtility</string>
+    <string name="select_board_pinterest">Select a board to pin it</string>
+    <string name="cancel">Cancel</string>
+    <string name="pin_success">You succesfully created a pin</string>
+    <string name="error_message_invalid_operation">Invalid operation</string>
+    <string name="app_id_pinterest">4863595298819157908</string>
+    <string name="facebook_app_id">202548806817551</string>
+    <string name="show_share_dialog">Show share dialog</string>
+
 </resources>
